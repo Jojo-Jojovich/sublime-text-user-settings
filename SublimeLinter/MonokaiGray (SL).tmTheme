@@ -110,7 +110,7 @@
                 <key>fontStyle</key>
                 <string />
                 <key>foreground</key>
-                <string>#F92672</string>
+                <string>#F92626</string>
             </dict>
         </dict>
         <dict>
@@ -121,7 +121,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#F92672</string>
+                <string>#F92626</string>
             </dict>
         </dict>
         <dict>
@@ -134,7 +134,7 @@
                 <key>fontStyle</key>
                 <string />
                 <key>foreground</key>
-                <string>#F92672</string>
+                <string>#F92626</string>
             </dict>
         </dict>
         <dict>
@@ -212,7 +212,7 @@
                 <key>fontStyle</key>
                 <string />
                 <key>foreground</key>
-                <string>#F92672</string>
+                <string>#F92626</string>
             </dict>
         </dict>
         <dict>
@@ -286,7 +286,7 @@
             <key>settings</key>
             <dict>
                 <key>background</key>
-                <string>#F92672</string>
+                <string>#F92626</string>
                 <key>fontStyle</key>
                 <string />
                 <key>foreground</key>
@@ -314,7 +314,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#CFCFCF</string>
+                <string>#FFF772</string>
             </dict>
         </dict>
 
@@ -337,7 +337,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#F92672</string>
+                <string>#F92626</string>
             </dict>
         </dict>
         <dict>
@@ -395,16 +395,6 @@
 
     <dict>
             <key>name</key>
-            <string>SublimeLinter Error</string>
-            <key>scope</key>
-            <string>sublimelinter.mark.error</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#D02000</string>
-            </dict>
-        </dict><dict>
-            <key>name</key>
             <string>SublimeLinter Gutter Mark</string>
             <key>scope</key>
             <string>sublimelinter.gutter-mark</string>
@@ -422,6 +412,16 @@
             <dict>
                 <key>foreground</key>
                 <string>#DDB700</string>
+            </dict>
+        </dict><dict>
+            <key>name</key>
+            <string>SublimeLinter Error</string>
+            <key>scope</key>
+            <string>sublimelinter.mark.error</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#D02000</string>
             </dict>
         </dict></array>
     <key>uuid</key>
