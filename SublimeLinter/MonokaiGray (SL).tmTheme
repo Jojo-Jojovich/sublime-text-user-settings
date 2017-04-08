@@ -121,7 +121,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#F92626</string>
+                <string>#AE81FF</string>
             </dict>
         </dict>
         <dict>
@@ -392,7 +392,17 @@
                 <string>#F8F8F8</string>
             </dict>
         </dict>
-
+        <dict>
+            <key>name</key>
+            <string>Operators</string>
+            <key>scope</key>
+            <string>keyword.operator</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#66D9EF</string>
+            </dict>
+        </dict>
     <dict>
             <key>name</key>
             <string>SublimeLinter Gutter Mark</string>
