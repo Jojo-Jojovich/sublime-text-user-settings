@@ -16,7 +16,7 @@
 		"dist",
 		"tmp"
 	],
-	"font_face": "Menlo",
+	"font_face": "DejaVu Sans Mono",
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -28,5 +28,6 @@
 	"tab_size": 2,
 	"theme": "Boxy Monokai.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false
+	"word_wrap": false,
+	"bold_folder_labels": true
 }

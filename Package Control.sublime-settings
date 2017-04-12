@@ -59,5 +59,9 @@
 		"Theme - Soda",
 		"ToggleQuotes",
 		"Tomorrow Color Schemes"
+	],
+	"repositories":
+	[
+		"https://github.com/Jojo-Jojovich/Abacus"
 	]
 }
