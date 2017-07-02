@@ -1,40 +1,23 @@
+
 [
+    { "caption": "-"},
+    {
+    "caption": "EasyDiff",
+    "children":
+    [
     { "caption": "-" },
     {
-        "caption": "EasyDiff Set Left Side",
-        "children":
-        [
-            {
-                "caption": "View",
-                "command": "easy_diff_set_left"
-            },
-            {
-                "caption": "Clipboard",
-                "command": "easy_diff_set_left_clipboard"
-            },
-            {
-                "caption": "Selection",
-                "command": "easy_diff_set_left_selection"
-            }
-        ]
+        "command": "easy_diff_set_left"
     },
     {
-        "caption": "EasyDiff Compare with \"...\"",
-        "children":
-        [
-            {
-                "caption": "View",
-                "command": "easy_diff_compare_both_view"
-            },
-            {
-                "caption": "Clipboard",
-                "command": "easy_diff_compare_both_clipboard"
-            },
-            {
-                "caption": "Selection",
-                "command": "easy_diff_compare_both_selection"
-            }
-        ]
+        "command": "easy_diff_compare_both"
+    },
+    {
+        "command": "easy_diff_compare_both",
+        "args": {"clipboard": true}
+    },
+    {
+        "command": "easy_diff_mru_compare"
     },
 
     {
@@ -95,4 +78,6 @@
     
     
     { "caption": "-"}
+    ]
+    }
 ]

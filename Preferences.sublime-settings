@@ -1,6 +1,7 @@
 {
 	"atomic_save": false,
 	"auto_complete_on_tab": true,
+	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"color_scheme": "Packages/User/SublimeLinter/MonokaiGray (SL).tmTheme",
 	"detect_slow_plugins": false,
@@ -14,9 +15,11 @@
 		"node_modules",
 		"bower_components",
 		"dist",
-		"tmp"
+		"tmp",
+		".venv",
+		".vscode"
 	],
-	"font_face": "DejaVu Sans Mono",
+	"font_face": "Menlo",
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -28,6 +31,5 @@
 	"tab_size": 2,
 	"theme": "Boxy Monokai.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false,
-	"bold_folder_labels": true
+	"word_wrap": false
 }

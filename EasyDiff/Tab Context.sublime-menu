@@ -1,46 +1,25 @@
+
 [
+    { "caption": "-"},
+    {
+    "caption": "EasyDiff",
+    "children":
+    [
     { "caption": "-" },
     {
-        "caption": "EasyDiff Set Left Side",
-        "children":
-        [
-            {
-                "caption": "View",
-                "command": "easy_diff_set_left",
-                "args": {"group": -1, "index": -1}
-            },
-            {
-                "caption": "Clipboard",
-                "command": "easy_diff_set_left_clipboard",
-                "args": {"group": -1, "index": -1}
-            },
-            {
-                "caption": "Selection",
-                "command": "easy_diff_set_left_selection",
-                "args": {"group": -1, "index": -1}
-            }
-        ]
+        "command": "easy_diff_set_left",
+        "args": {"group": -1, "index": -1}
     },
     {
-        "caption": "EasyDiff Compare with \"...\"",
-        "children":
-        [
-            {
-                "caption": "View",
-                "command": "easy_diff_compare_both_view",
-                "args": {"group": -1, "index": -1}
-            },
-            {
-                "caption": "Clipboard",
-                "command": "easy_diff_compare_both_clipboard",
-                "args": {"group": -1, "index": -1}
-            },
-            {
-                "caption": "Selection",
-                "command": "easy_diff_compare_both_selection",
-                "args": {"group": -1, "index": -1}
-            }
-        ]
+        "command": "easy_diff_compare_both",
+        "args": {"group": -1, "index": -1}
+    },
+    {
+        "command": "easy_diff_compare_both",
+        "args": {"clipboard": true, "group": -1, "index": -1}
+    },
+    {
+        "command": "easy_diff_mru_compare",
     },
 
     {
@@ -104,4 +83,6 @@
     
     
     { "caption": "-"}
+    ]
+    }
 ]
