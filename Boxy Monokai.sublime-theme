@@ -1,0 +1,28 @@
+[
+
+  {
+    "class": "sidebar_label",
+    "font.size": 11,
+    "font.face": "Menlo"
+  },
+
+  {
+    "class": "sidebar_label",
+    "parents": [{"class": "tree_row", "attributes": ["expandable"]}],
+    "settings": ["bold_folder_labels"],
+    "font.bold": true,
+    "font.face": "Menlo"
+  },
+
+  //
+  // Transient
+  //
+
+  {
+    "class": "sidebar_label",
+    "attributes": ["transient"],
+    "font.italic": true,
+    "font.face": "Menlo"
+  }
+
+]
