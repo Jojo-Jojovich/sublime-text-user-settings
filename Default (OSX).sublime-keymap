@@ -135,5 +135,6 @@
   { "keys": ["super+v"], "command": "paste_and_indent" },
   { "keys": ["super+shift+v"], "command": "paste" },
   { "keys": ["ctrl+super+r"], "command": "reveal_in_side_bar"},
-  { "keys": ["ctrl+alt+super+["], "command": "reindent" }
+  { "keys": ["ctrl+alt+super+["], "command": "reindent" },
+  { "keys": ["super+shift+r"], "command": "reveal_in_side_bar"}
 ]
