@@ -10,8 +10,7 @@
             "eslint": {
                 "@disable": false,
                 "args": [],
-                "excludes": [
-                ]
+                "excludes": []
             },
             "jshint": {
                 "@disable": false,
