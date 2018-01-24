@@ -1,6 +1,6 @@
 {
     "user": {
-        "debug": false,
+        "debug": true,
         "delay": 0.25,
         "error_color": "D02000",
         "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
@@ -15,10 +15,12 @@
             "jshint": {
                 "@disable": false,
                 "args": [],
-                "excludes": [
-                    "/Users/elee/projects/soxhub/soxhub-api/**/*",
-                    "/Users/elee/projects/soxhub/soxhub-client/**/*"
-                ]
+                "excludes": []
+            },
+            "jsxhint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
             }
         },
         "mark_style": "outline",
@@ -78,6 +80,7 @@
         "tooltip_theme": "Packages/SublimeLinter/tooltip-themes/Default/Default.tooltip-theme",
         "tooltip_theme_excludes": [],
         "tooltips": false,
+        "use_current_shell_path": false,
         "warning_color": "DDB700",
         "wrap_find": true
     }
