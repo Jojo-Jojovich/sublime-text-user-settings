@@ -42,6 +42,7 @@
 		"jQuery",
 		"jQuery Snippets pack",
 		"LESS",
+		"Logging Control",
 		"Markdown Preview",
 		"MarkdownEditing",
 		"Monokai Gray",
@@ -53,16 +54,19 @@
 		"Puppet",
 		"Python Improved",
 		"Ruby Slim",
+		"Sass",
 		"Schemr",
 		"SideBarEnhancements",
 		"Solarized Color Scheme",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
-		"Syntax Highlighting for Sass",
+		"SublimeLinter-pylint",
+		"SublimeLog",
 		"Theme - Soda",
 		"ToggleQuotes",
-		"Tomorrow Color Schemes"
+		"Tomorrow Color Schemes",
+		"Verbose"
 	],
 	"repositories":
 	[
