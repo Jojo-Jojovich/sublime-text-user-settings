@@ -1,5 +1,9 @@
-// These settings override both User and Default settings for the Python syntax
 {
+	"extensions":
+	[
+		"pyw",
+		"py3"
+	],
 	"tab_size": 4,
-	"translate_tabs_to_spaces": true,
+	"translate_tabs_to_spaces": true
 }
