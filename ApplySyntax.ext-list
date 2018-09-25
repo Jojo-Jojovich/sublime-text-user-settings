@@ -3,6 +3,10 @@
 	[
 		"bash"
 	],
+	"Emblem.js Syntax Highlighting/Syntaxes/Emblem":
+	[
+		"emblem"
+	],
 	"HTML (Rails)":
 	[
 		"html.erb"

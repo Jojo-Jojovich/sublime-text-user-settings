@@ -17,7 +17,8 @@
 		"dist",
 		"tmp",
 		".venv",
-		".vscode"
+		".vscode",
+		"infrastructure/bin"
 	],
 	"font_face": "Menlo",
 	"font_size": 12,

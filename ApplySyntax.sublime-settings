@@ -37,5 +37,9 @@
                 {"interpreter": "bash"}
             ]
         },
+        {
+            "syntax": "Emblem.js Syntax Highlighting/Syntaxes/Emblem",
+            "extensions": ["emblem"]
+        },
     ]
 }
