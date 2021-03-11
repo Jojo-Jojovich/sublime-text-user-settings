@@ -1,7 +1,13 @@
 {
 	"Bash":
 	[
-		"bash"
+		"bash",
+		"sh",
+		"zsh"
+	],
+	"Emblem":
+	[
+		"emblem"
 	],
 	"Emblem.js Syntax Highlighting/Syntaxes/Emblem":
 	[
@@ -13,9 +19,6 @@
 	],
 	"INI":
 	[
-		".gitattributes",
-		".gitconfig",
-		".gitignore",
 		".npmrc",
 		"ini.dist"
 	],

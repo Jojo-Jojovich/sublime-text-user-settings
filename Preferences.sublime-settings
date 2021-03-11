@@ -32,7 +32,7 @@
 	"soda_classic_tabs": true,
 	"sublimelinter_delay": 500,
 	"tab_size": 2,
-	"theme": "Boxy Monokai.sublime-theme",
+	"theme": "Soda Dark 3.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false
 }
