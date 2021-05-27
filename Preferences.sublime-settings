@@ -26,7 +26,7 @@
 	"ignored_packages":
 	[
 		"JavaScript",
-		"Markdown"
+		"Markdown",
 	],
 	"show_full_path": true,
 	"soda_classic_tabs": true,
@@ -34,5 +34,6 @@
 	"tab_size": 2,
 	"theme": "Soda Dark 3.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false
+	"word_wrap": false,
+	"close_windows_when_empty": true,
 }

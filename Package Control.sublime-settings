@@ -69,11 +69,11 @@
 		"Theme - Soda",
 		"ToggleQuotes",
 		"Tomorrow Color Schemes",
-		"Verbose"
+		"Verbose",
 	],
 	"repositories":
 	[
 		"https://github.com/Jojo-Jojovich/Abacus",
 		"https://github.com/Jojo-Jojovich/Abacus"
-	]
+	],
 }
