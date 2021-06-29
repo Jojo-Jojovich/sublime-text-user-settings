@@ -1,0 +1,11 @@
+// Settings in here override those in "ESLint-Formatter/ESLint-Formatter.sublime-settings",
+
+{
+	"node_path": {
+	  "osx": "/Users/elee/.nodenv/shims/node"
+	},
+	"eslint_path": {
+	  "osx": "/Users/elee/.nodenv/shims/eslint"
+	},
+	"format_on_save": true
+}
