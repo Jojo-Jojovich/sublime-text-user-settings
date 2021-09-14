@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/MarkdownEditing/MarkdownEditor.tmTheme",
+	"color_scheme": "MarkdownEditor-Dark.sublime-color-scheme",
 	"extensions":
 	[
 		"md",
@@ -7,5 +7,5 @@
 	],
 	"font_face": "Menlo",
 	"font_size": 12,
-	"line_numbers": true
+	"line_numbers": true,
 }
