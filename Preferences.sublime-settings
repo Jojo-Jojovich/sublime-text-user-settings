@@ -26,8 +26,6 @@
 	"ignored_packages":
 	[
 		"JavaScript",
-		"Markdown",
-		"Placeholders",
 	],
 	"show_full_path": true,
 	"soda_classic_tabs": true,
@@ -38,4 +36,5 @@
 	"word_wrap": false,
 	"close_windows_when_empty": false,
 	"open_files_in_new_window": "never",
+	"index_files": true,
 }

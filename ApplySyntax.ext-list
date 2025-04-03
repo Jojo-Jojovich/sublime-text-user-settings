@@ -1,9 +1,12 @@
 {
 	"Bash":
 	[
+		".profile",
+		"ash",
 		"bash",
+		"bashrc",
 		"sh",
-		"zsh"
+		"zsh",
 	],
 	"Emblem":
 	[
@@ -55,9 +58,12 @@
 	],
 	"Shell-Unix-Generic":
 	[
+		".profile",
+		"ash",
 		"bash",
+		"bashrc",
 		"sh",
-		"zsh"
+		"zsh",
 	],
 	"XML":
 	[
@@ -69,5 +75,20 @@
 		"YAML-tmLanguage",
 		"yml",
 		"yml.dist"
+	],
+	"HAML":
+	[
+		"haml"
+	],
+	"JSON":
+	[
+		".babelrc",
+		".bowerrc",
+		".csslintrc",
+		".eslintrc",
+		".jscsrc",
+		".jshintrc",
+		".stylelintrc",
+		"geojson"
 	],
 }

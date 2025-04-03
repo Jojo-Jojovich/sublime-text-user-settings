@@ -17,7 +17,6 @@
 		"BracketHighlighter",
 		"Bubububububad and Boneyfied Color Schemes",
 		"CodeFormatter",
-		"Color Highlighter",
 		"Color Schemes by carlcalderon",
 		"Dayle Rees Color Schemes",
 		"DocBlockr",
@@ -43,7 +42,7 @@
 		"JavaScriptNext - ES6 Syntax",
 		"jQuery",
 		"jQuery Snippets pack",
-		"LESS",
+		"Less",
 		"Logging Control",
 		"MarkdownEditing",
 		"MarkdownPreview",
@@ -62,7 +61,6 @@
 		"Schemr",
 		"SideBarEnhancements",
 		"Solarized Color Scheme",
-		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
 		"SublimeLinter-pylint",
@@ -71,7 +69,7 @@
 		"ToggleQuotes",
 		"Tomorrow Color Schemes",
 		"Verbose",
-		"Vue Syntax Highlight",
+		"Vue",
 	],
 	"repositories":
 	[
